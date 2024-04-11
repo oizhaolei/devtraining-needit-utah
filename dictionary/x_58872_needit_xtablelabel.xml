@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="135f0050c36d0210df759d777d0131ab" label="xtablelabel" max_length="40" name="x_58872_needit_xtablelabel" type="collection">
+        <element default="true" display="true" label="understand" max_length="1" name="understandunderstand" type="boolean"/>
+    </element>
+</database>
